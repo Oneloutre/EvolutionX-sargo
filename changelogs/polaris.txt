@@ -1,0 +1,4 @@
+June Security Patch (QPR3)
+Device certified by default
+----
+#NeverStopEvolving !
