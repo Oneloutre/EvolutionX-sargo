@@ -1,4 +1,4 @@
-June Security Patch (QPR3)
+July Security Patch (QPR3)
 Device certified by default
 ----
 #NeverStopEvolving !
