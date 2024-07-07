@@ -3,8 +3,8 @@
 ---
 
 <div align="center">
-<u><h1>Evolution X - Polaris</h1></u>
-EvolutionX for Xiaomi mi mix 2S  - Polaris
+<u><h1>Evolution X - Sargo</h1></u>
+EvolutionX for Google Pixel 3a  - Sargo
 
 
 # Build is signed by default, which means that it passes BASIC_INTEGRITY and DEVICE_INTEGRITY out of the box.
@@ -300,7 +300,7 @@ Reach us on Twitter! [@EvolutionXROM](https://twitter.com/EvolutionXROM)
 
 ![issues](assets/known_issues.png)
 
-<B>Now but Let me know if you find one !</B>
+<B>None but Let me know if you find one !</B>
 
 ![installation](assets/installation.png)
 
